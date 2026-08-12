@@ -1,7 +1,5 @@
 # Sales-Analytics-Dashboard
 Interactive sales analytics dashboard using Power BI, SQL and Excel
-# Sales Analytics Dashboard
-
 ## 📊 Project Overview
 
 An end-to-end sales analytics project focused on analyzing revenue
